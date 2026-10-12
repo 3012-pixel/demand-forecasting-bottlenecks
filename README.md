@@ -104,7 +104,7 @@ Each run writes `outputs/bottleneck_report.csv` with these columns:
 ## 5. How to run
 
 ```bash
-git clone https://github.com/<your-username>/demand-forecasting-bottlenecks.git
+git clone https://github.com/3012-pixel/demand-forecasting-bottlenecks.git
 cd demand-forecasting-bottlenecks
 python -m venv .venv
 .venv\Scripts\activate            # macOS/Linux: source .venv/bin/activate
