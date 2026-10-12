@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.2
+openpyxl>=3.1
+statsmodels>=0.14
+scikit-learn>=1.4
+matplotlib>=3.8
+holidays>=0.50
+PyYAML>=6.0
+python-dotenv>=1.0
+pytest>=8
